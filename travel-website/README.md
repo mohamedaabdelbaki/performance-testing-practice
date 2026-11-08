@@ -49,3 +49,5 @@ The main booking flow is:
 3. Enter passenger details.
 4. Submit the booking.
 5. View the confirmation page.
+
+**Note:** The 40-user limit is an initial testing assumption.
