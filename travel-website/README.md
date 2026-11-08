@@ -3,6 +3,7 @@
 ## 1. Application Overview
 
 This project uses a sample travel agency website to practice performance testing.
+**Application Under Test:** [BlazeDemo](https://blazedemo.com/)
 
 The application allows users to search for flights, select a flight, enter passenger details, and complete a booking.
 
